@@ -1,0 +1,10 @@
+build/
+config/*
+!config/.gitkeep
+.vscode/
+3rdparty/*
+!3rdparty/.gitkeep
+texture/
+video/
+*.sh
+.DS_Store
