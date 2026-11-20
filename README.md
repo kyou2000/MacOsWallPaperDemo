@@ -25,6 +25,7 @@
 1. 编译前准备
    - 下载SDL3，可选择brew安装或源码编译，本示例中SDL3采用源码编译的形式。
    - 使用brew安装ffmpeg
+   - 下载metal-cpp
    - 安装xcode，一定要完整的，command tools缺少必要的工具。并且为编译着色器，还需要安装MetalToolchain。
    - 需要nlohmann的json库，head only，放到3rdparty中，另外如果需要调试需要下载spdlog写出日志进行调试。
 ```
